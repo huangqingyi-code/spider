@@ -3,7 +3,7 @@ import json
 import sqlite3
 import traceback
 import argparse
-from process_sql import get_sql
+from preprocess.process_sql import get_sql
 
 
 #TODO: update the following dirs
